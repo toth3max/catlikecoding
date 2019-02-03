@@ -3,11 +3,11 @@ Going trough the Unity tutorials on https://catlikecoding.com
 
 
 ### Graphy (https://github.com/Tayx94/graphy) used trough a submodule 
-`../Assets/Graphy
+```../Assets/Graphy
 
 should be linked to
 
-../submodules/graphy/Assets/Tayx/Graphy - Ultimate Stats Monitor`
+../submodules/graphy/Assets/Tayx/Graphy - Ultimate Stats Monitor```
 
 
 Setup inspired by this post
